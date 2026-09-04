@@ -1,0 +1,6 @@
+{
+  "name": "Risk Hunter",
+  "description": "Proactive payment risk intelligence and simulation platform for fintech risk operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
